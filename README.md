@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Anish Anand
-- 👀 I’m interested in AI and ML 
+#👋 Hi, I’m Anish Anand
+#👀 I’m interested in AI and ML 
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me anish.anand2019@vitbhopal.ac.in
